@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "d4266fab-9bc2-30eb-8895-efb31efc3f9f",
+    "name": "gko123",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
