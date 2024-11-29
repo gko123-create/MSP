@@ -23369,3 +23369,51 @@ java.lang.ClassNotFoundException: net.minecraft.client.particle.TextureSheetPart
 [29Nov2024 07:23:46.071] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
 [29Nov2024 07:23:57.063] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=65, z=-16}
 [29Nov2024 07:23:58.365] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=65, z=-16}
+[29Nov2024 07:24:01.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 burned to death
+[29Nov2024 07:24:01.372] [Server thread/INFO] [tombstone/]: The player jotze213 has successfully been saved
+[29Nov2024 07:24:03.967] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2902ms or 58 ticks behind
+[29Nov2024 07:24:17.242] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=65, z=-16}
+[29Nov2024 07:24:19.468] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=9, y=65, z=-16}
+[29Nov2024 07:24:21.314] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2349ms or 46 ticks behind
+[29Nov2024 07:24:45.517] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[29Nov2024 07:25:02.587] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[29Nov2024 07:25:22.921] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Nov2024 07:25:32.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 was slain by Spirit Guide
+[29Nov2024 07:25:32.579] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has made the advancement [Your First Grave]
+[29Nov2024 07:25:32.602] [Server thread/INFO] [tombstone/]: The player gko123 has successfully been saved
+[29Nov2024 07:25:42.905] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2090ms or 41 ticks behind
+[29Nov2024 07:26:03.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 was slain by Swarmer
+[29Nov2024 07:26:04.037] [Server thread/INFO] [tombstone/]: The player gko123 has successfully been saved
+[29Nov2024 07:26:09.010] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2045ms or 40 ticks behind
+[29Nov2024 07:26:21.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 was slain by Swarmer
+[29Nov2024 07:26:21.674] [Server thread/INFO] [tombstone/]: The player jotze213 has successfully been saved
+[29Nov2024 07:26:27.579] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3613ms or 72 ticks behind
+[29Nov2024 07:26:50.479] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[29Nov2024 07:27:12.344] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6878ms or 137 ticks behind
+[29Nov2024 07:27:42.262] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=229, y=-51, z=147}
+[29Nov2024 07:27:42.708] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=12, y=7, z=-230}
+[29Nov2024 07:27:46.354] [Thread-3/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/MSP/servidor_minecraft/config/vampirism-common.toml is not correct. Correcting
+[29Nov2024 07:27:53.578] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3363ms or 67 ticks behind
+[29Nov2024 07:27:56.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has made the advancement [Knowledge of Death]
+[29Nov2024 07:27:56.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has reached the goal [Here They Come]
+[29Nov2024 07:28:19.989] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2074ms or 41 ticks behind
+[29Nov2024 07:28:20.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has reached the goal [Chain Death]
+[29Nov2024 07:28:20.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 was slain by Corpse Fly
+[29Nov2024 07:28:20.348] [Server thread/INFO] [tombstone/]: The player gko123 has successfully been saved
+[29Nov2024 07:28:41.225] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6260ms or 125 ticks behind
+[29Nov2024 07:29:00.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 drowned
+[29Nov2024 07:29:00.624] [Server thread/INFO] [tombstone/]: The player jotze213 has successfully been saved
+[29Nov2024 07:29:03.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gko123 moved too quickly! 10.214768879212277,-1.1754232959521005,-0.24770104898621792
+[29Nov2024 07:29:03.679] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3564ms or 71 ticks behind
+[29Nov2024 07:29:21.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[29Nov2024 07:29:28.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Teleported gko123 to jotze213]
+[29Nov2024 07:29:33.359] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=159, y=7, z=-247}
+[29Nov2024 07:29:34.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gko123 moved too quickly! 9.854564445119983,1.710629069704396,1.4811292822529118
+[29Nov2024 07:29:36.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gko123 moved too quickly! 8.537814920669499,2.227688487544981,-4.917001992996408
+[29Nov2024 07:29:46.820] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10105ms or 202 ticks behind
+[29Nov2024 07:30:09.329] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7513ms or 150 ticks behind
+[29Nov2024 07:30:27.572] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gko123 lost connection: Disconnected
+[29Nov2024 07:30:27.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 left the game
+[29Nov2024 07:30:31.228] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6913ms or 138 ticks behind
+[29Nov2024 07:30:37.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: jotze213 lost connection: Disconnected
+[29Nov2024 07:30:37.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: jotze213 left the game
