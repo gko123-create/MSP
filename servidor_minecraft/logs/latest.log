@@ -6085,3 +6085,61 @@ java.lang.NullPointerException: Element not found: amount
 [29Nov2024 05:41:55.037] [Server thread/INFO] [de.teamlapen.vampirism.blockentity.TotemBlockEntity/]: Failed to spawn capture creature
 [29Nov2024 05:44:04.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has made the advancement [What a horrible place..]
 [29Nov2024 05:44:07.754] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3096ms or 61 ticks behind
+[29Nov2024 05:50:48.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has made the advancement [Resurrection! ]
+[29Nov2024 05:51:00.754] [Worker-Main-12/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=214, y=22, z=-239}
+[29Nov2024 05:51:08.338] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2080ms or 41 ticks behind
+[29Nov2024 05:51:12.412] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=159, y=7, z=-247}
+[29Nov2024 05:51:21.046] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=240, y=-10, z=-236}
+[29Nov2024 05:51:25.653] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=159, y=7, z=-247}
+[29Nov2024 05:51:32.755] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=242, y=21, z=-270}
+[29Nov2024 05:52:53.413] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=253, y=6, z=-301}
+[29Nov2024 05:52:53.416] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=298, y=-33, z=-294}
+[29Nov2024 05:53:19.012] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=249, y=15, z=-323}
+[29Nov2024 05:53:29.040] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
+[29Nov2024 05:54:28.652] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=470, y=-33, z=-433}
+[29Nov2024 05:54:28.799] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=595, y=-49, z=-377}
+[29Nov2024 05:54:53.766] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=353, y=30, z=-460}
+[29Nov2024 05:54:54.939] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=395, y=-44, z=-478}
+[29Nov2024 05:54:55.847] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=531, y=-2, z=-473}
+[29Nov2024 05:56:08.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 has reached the goal [Half a flight]
+[29Nov2024 05:56:25.911] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=130, y=-45, z=-435}
+[29Nov2024 05:56:34.110] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=362, y=-44, z=-502}
+[29Nov2024 05:56:43.812] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2005ms or 40 ticks behind
+[29Nov2024 05:57:01.179] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2371ms or 47 ticks behind
+[29Nov2024 05:57:11.352] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=157, y=18, z=-569}
+[29Nov2024 05:57:11.354] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=179, y=10, z=-562}
+[29Nov2024 05:59:50.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gko123 lost connection: Disconnected
+[29Nov2024 05:59:50.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 left the game
+[29Nov2024 06:00:30.367] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@760b832b[id=<null>,name=gko123,properties={},legacy=false] (/100.69.179.40:60418) lost connection: Disconnected
+[29Nov2024 06:00:48.663] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 0
+[29Nov2024 06:00:48.711] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 1
+[29Nov2024 06:00:48.762] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 2
+[29Nov2024 06:00:48.806] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 3
+[29Nov2024 06:00:48.859] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 4
+[29Nov2024 06:00:48.909] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 5
+[29Nov2024 06:00:48.957] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 6
+[29Nov2024 06:00:49.008] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 7
+[29Nov2024 06:00:49.060] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 8
+[29Nov2024 06:00:49.108] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 9
+[29Nov2024 06:00:49.159] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 10
+[29Nov2024 06:00:49.211] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 11
+[29Nov2024 06:00:50.204] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 12
+[29Nov2024 06:00:51.014] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 13
+[29Nov2024 06:00:51.021] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 14
+[29Nov2024 06:00:51.022] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 15
+[29Nov2024 06:00:51.066] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 16
+[29Nov2024 06:00:51.517] [Netty Epoll Server IO #3/INFO] [Calio/]: Received acknowledgment for login packet with id 17
+[29Nov2024 06:00:59.929] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[29Nov2024 06:00:59.947] [Server thread/ERROR] [net.minecraft.stats.ServerRecipeBook/]: Tried to load unrecognized recipe: apotheosis:potion_charm_enchanting removed now.
+[29Nov2024 06:00:59.948] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gko123[/100.69.179.40:60462] logged in with entity id 10948 at (390.8073721771859, 88.0, -177.70637871654708)
+[29Nov2024 06:00:59.950] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to gko123
+[29Nov2024 06:00:59.953] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to gko123
+[29Nov2024 06:00:59.954] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to gko123
+[29Nov2024 06:00:59.955] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to gko123
+[29Nov2024 06:00:59.961] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to gko123
+[29Nov2024 06:00:59.964] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to gko123
+[29Nov2024 06:00:59.972] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to gko123
+[29Nov2024 06:01:00.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 joined the game
+[29Nov2024 06:01:00.465] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: gko123
+[29Nov2024 06:01:00.530] [Server thread/INFO] [Jade/]: Syncing config to gko123 (d4266fab-9bc2-30eb-8895-efb31efc3f9f)
+[29Nov2024 06:01:03.577] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2020ms or 40 ticks behind
