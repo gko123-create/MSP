@@ -20472,3 +20472,20 @@ java.lang.NullPointerException: Element not found: amount
 [29Nov2024 00:56:03.674] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=199, y=34, z=-206}
 [29Nov2024 00:56:03.771] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=13, y=-44, z=-212}
 [29Nov2024 00:56:10.366] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=107, y=3, z=-215}
+[29Nov2024 00:56:32.622] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=12, y=7, z=-232}
+[29Nov2024 00:56:45.262] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[29Nov2024 00:57:00.504] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=230, y=-51, z=147}
+[29Nov2024 00:57:03.631] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3406ms or 68 ticks behind
+[29Nov2024 01:03:42.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: gko123 lost connection: Disconnected
+[29Nov2024 01:03:42.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 left the game
+[29Nov2024 01:07:12.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: gko123[/100.69.179.40:60912] logged in with entity id 3204 at (49.2899359260789, 71.1109279953753, -9.200814993297529)
+[29Nov2024 01:07:12.509] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to gko123
+[29Nov2024 01:07:12.510] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to gko123
+[29Nov2024 01:07:12.512] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to gko123
+[29Nov2024 01:07:12.515] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to gko123
+[29Nov2024 01:07:12.522] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to gko123
+[29Nov2024 01:07:12.527] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to gko123
+[29Nov2024 01:07:12.528] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to gko123
+[29Nov2024 01:07:12.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 joined the game
+[29Nov2024 01:07:12.950] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: gko123
+[29Nov2024 01:07:13.057] [Server thread/INFO] [Jade/]: Syncing config to gko123 (d4266fab-9bc2-30eb-8895-efb31efc3f9f)
