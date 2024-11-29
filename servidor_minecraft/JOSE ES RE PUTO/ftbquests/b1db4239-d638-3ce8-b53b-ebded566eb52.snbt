@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "b1db4239d6383ce8b53bebded566eb52"
+	name: "jotze213#b1db4239"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

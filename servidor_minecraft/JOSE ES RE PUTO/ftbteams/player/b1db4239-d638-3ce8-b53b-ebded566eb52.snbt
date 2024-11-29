@@ -1,0 +1,17 @@
+{
+	id: "b1db4239-d638-3ce8-b53b-ebded566eb52"
+	type: "player"
+	player_name: "jotze213"
+	ranks: {
+		b1db4239-d638-3ce8-b53b-ebded566eb52: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "jotze213"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59B5"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
