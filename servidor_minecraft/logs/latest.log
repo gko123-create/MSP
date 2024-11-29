@@ -20489,3 +20489,5 @@ java.lang.NullPointerException: Element not found: amount
 [29Nov2024 01:07:12.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: gko123 joined the game
 [29Nov2024 01:07:12.950] [Server thread/INFO] [se.mickelus.tetra.data.DataManager/]: Sending data to client: gko123
 [29Nov2024 01:07:13.057] [Server thread/INFO] [Jade/]: Syncing config to gko123 (d4266fab-9bc2-30eb-8895-efb31efc3f9f)
+[29Nov2024 01:08:16.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [gko123: Set own game mode to Creative Mode]
+[29Nov2024 01:10:40.524] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-184, y=-47, z=-234}
